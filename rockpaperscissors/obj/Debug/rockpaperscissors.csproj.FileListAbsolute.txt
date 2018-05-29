@@ -1,0 +1,2 @@
+C:\Users\Christopher\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\source\repos\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.csproj.CoreCompileInputs.cache
